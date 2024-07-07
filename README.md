@@ -19,8 +19,6 @@
 
 - ⚡ Fun fact **I can debug code faster than I can decide what to order for lunch.**
 
-<h2 align="center">Hi, I am Harshit 👋</h2>
-
 ###
 
 <div align="center">
@@ -96,6 +94,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/HaryAgni/HaryAgni/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/haryagni/haryagni/output/snake.svg" alt="Snake animation" />
 
 ###
