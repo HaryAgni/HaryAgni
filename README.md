@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshit</h1>
 <h3 align="center">Writing code like a ninja, silently and elegantly.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haryagni&label=Profile%20views&color=0e75b6&style=flat" alt="haryagni" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haryagni" alt="haryagni" /></a> </p>
-
+<img align="right" height="150" src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=790b76111njndob6707rg5hskyb8n7x4m9v9xua85m8dpkjk&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 - 🔭 I’m currently working on **Web Development using React and Angular**
 
 - 👯 I’m looking to collaborate on **Fullstack projects**
@@ -74,7 +70,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=790b76111njndob6707rg5hskyb8n7x4m9v9xua85m8dpkjk&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
@@ -93,6 +88,7 @@
 ###
 
 <br clear="both">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=haryagni&label=Profile%20views&color=0e75b6&style=flat" alt="haryagni" /> </p>
 
 <img src="https://raw.githubusercontent.com/haryagni/haryagni/output/snake.svg" alt="Snake animation" />
 
