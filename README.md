@@ -6,7 +6,7 @@
     <div align="center">
         <a href="https://github.com/HaryAgni">
             <img
-                src="https://readme-typing-svg.herokuapp.com?color=%232f97c1&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Harshit+Agnihotri;Student;Web+Developer;Software+Engineer;Freelancer;Open-Source+Enthusiast"
+                src="https://readme-typing-svg.herokuapp.com?color=%232f97c1&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Harshit+Agnihotri;Web+Developer;Coding+Enthusiast;Software+Engineer;Open-Source+Enthusiast;Coder;Gamer"
             />
         </a>
     </div>
@@ -20,13 +20,14 @@
         <br />
         <p>
             <strong>
-                I am a dedicated software engineer with 2.5 years of experience developing efficient and user-friendly software solutions. My expertise includes creating, designing, and maintaining systems, interfaces, and applications using Angular, React, HTML, CSS, JavaScript applying good practices and development standards.
+             As a front-end developer with 2.5 years of experience, I specialize in transforming pixels into interactive web magic. Using Angular and React, I build sleek, responsive interfaces that make the web a more beautiful and user-friendly place. Armed with HTML, CSS, and JavaScript, I tame the wild beasts of code to ensure every click, scroll, and hover feels like a dream. My daily routine involves slaying bugs, optimizing performance, and applying good practices and development standards like a chef perfecting a gourmet recipe. When I'm not busy coding, you can find me exploring the latest web design trends or trying to explain to my non-techie friends why my job is basically wizardry.
             </strong>
         </p>
-        <h1></h1>
     </div>
 </div>
-<h3 align="center">Writing code like a ninja, silently and elegantly.</h3>
+
+# <div align="center">💫  About Me:</div> 
+<h3 align="center">Writing code like a ninja, silently and elegantly 🐱‍👤</h3>
 <img align="right" height="150" src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=790b76111njndob6707rg5hskyb8n7x4m9v9xua85m8dpkjk&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 - 🔭 I’m currently working on **Web Development using React and Angular**
