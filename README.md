@@ -1,7 +1,7 @@
 
 <div>
     <div align="center">
-        <a href="https://github.com/HaryAgni"><img src="https://cdn.mrayush.me/img/Github-Readme/GitHub.png" height="200" /></a>
+        <a href="https://github.com/HaryAgni"><img src="https://octodex.github.com/images/spocktocat.png" height="200" /></a>
     </div>
     <div align="center">
         <a href="https://github.com/HaryAgni">
@@ -28,7 +28,7 @@
 
 # <div align="center">💫  About Me:</div> 
 <h3 align="center">Writing code like a ninja, silently and elegantly 🐱‍👤</h3>
-<img align="right" height="150" src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=790b76111njndob6707rg5hskyb8n7x4m9v9xua85m8dpkjk&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="150" src="https://camo.githubusercontent.com/521fe5e3f78b499cb840648c07a46986bb32a59911d8915cb54b34962918c890/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f51446a70494c366f4e43565a34717a4773372f67697068792e6769663f6369643d3739306237363131316e6a6e646f623637303772673568736b7962386e3778346d39763978756138356d3864706b6a6b2665703d76315f676966735f736561726368267269643d67697068792e6769662663743d67"  />
 
 - 🔭 I’m currently working on **Web Development using React and Angular**
 
@@ -47,7 +47,7 @@
 
 ###
 
-# <div align="center"> 💻 Tech Stack: </div>
+#  <div align="center"> 💻 Tech Stack: </div>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -116,11 +116,12 @@
 <img src="https://raw.githubusercontent.com/haryagni/haryagni/output/snake.svg" alt="Snake animation" />
 </div>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <div align="center"> 
  
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
 
 </div>
+
 
