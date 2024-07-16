@@ -41,7 +41,7 @@
 
 - 📫 How to reach me: Catch and follow me from the above links 👆, in addition to follow me here.
 
-- 📄 Know about my experiences: [My Resume](https://acrobat.adobe.com/id/urn:aaid:sc:AP:f972239d-c931-4d0f-97fd-880b91fda589)
+- 📄 Know about my experiences: [My Resume](https://acrobat.adobe.com/id/urn:aaid:sc:AP:bd25e763-8303-4f0c-9745-c68a3c06f64c)
 
 - ⚡ Fun fact **I can debug code faster than I can decide what to order for lunch.**
 
