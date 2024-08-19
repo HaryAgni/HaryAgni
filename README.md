@@ -108,7 +108,7 @@
 
 # <div align="center">🤝 Contributions:</div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HaryAgni&theme=react)](https://github.com/haryagni/github-readme-activity-graph)
+[![Harshit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HaryAgni&theme=react)](https://github.com/haryagni/github-readme-activity-graph)
 
 [![](https://visitor-badge.laobi.icu/badge?page_id=haryagni.haryagni)](https://visitcount.itsvg.in)
 
