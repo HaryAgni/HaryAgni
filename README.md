@@ -27,7 +27,7 @@
 
 # <div align="center">💫  About Me:</div> 
 <h3 align="center">Writing code like a ninja, silently and elegantly 🐱‍👤</h3>
-<img align="right" height="150" src="https://camo.githubusercontent.com/521fe5e3f78b499cb840648c07a46986bb32a59911d8915cb54b34962918c890/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f51446a70494c366f4e43565a34717a4773372f67697068792e6769663f6369643d3739306237363131316e6a6e646f623637303772673568736b7962386e3778346d39763978756138356d3864706b6a6b2665703d76315f676966735f736561726368267269643d67697068792e6769662663743d67"  />
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
 
 - 🔭 I’m currently working on **Web Development using React and Angular**
 
