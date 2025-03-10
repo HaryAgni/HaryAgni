@@ -19,7 +19,7 @@
         <br />
         <p>
             <strong>
-             As a front-end developer with 2.5 years of experience, I specialize in transforming pixels into interactive web magic. Using Angular and React, I build sleek, responsive interfaces that make the web a more beautiful and user-friendly place. Armed with HTML, CSS, and JavaScript, I tame the wild beasts of code to ensure every click, scroll, and hover feels like a dream. My daily routine involves slaying bugs, optimizing performance, and applying good practices and development standards like a chef perfecting a gourmet recipe. When I'm not busy coding, you can find me exploring the latest web design trends or trying to explain to my non-techie friends why my job is basically wizardry.
+             As a front-end developer with 3 years of experience, I specialize in transforming pixels into interactive web magic. Using Angular and React, I build sleek, responsive interfaces that make the web a more beautiful and user-friendly place. Armed with HTML, CSS, and JavaScript, I tame the wild beasts of code to ensure every click, scroll, and hover feels like a dream. My daily routine involves slaying bugs, optimizing performance, and applying good practices and development standards like a chef perfecting a gourmet recipe. When I'm not busy coding, you can find me exploring the latest web design trends or trying to explain to my non-techie friends why my job is basically wizardry.
             </strong>
         </p>
     </div>
@@ -50,6 +50,7 @@
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/ReactNative-222222?style=for-the-badge&logo=React&logoColor=)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
