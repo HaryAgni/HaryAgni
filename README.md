@@ -19,7 +19,7 @@
         <br />
         <p>
             <strong>
-             As a front-end developer with 3 years of experience, I specialize in transforming pixels into interactive web magic. Using Angular and React, I build sleek, responsive interfaces that make the web a more beautiful and user-friendly place. Armed with HTML, CSS, and JavaScript, I tame the wild beasts of code to ensure every click, scroll, and hover feels like a dream. My daily routine involves slaying bugs, optimizing performance, and applying good practices and development standards like a chef perfecting a gourmet recipe. When I'm not busy coding, you can find me exploring the latest web design trends or trying to explain to my non-techie friends why my job is basically wizardry.
+             As a front-end developer with 3+ years of experience, I specialize in transforming pixels into interactive web magic. Using Angular and React, I build sleek, responsive interfaces that make the web a more beautiful and user-friendly place. Armed with HTML, CSS, and JavaScript, I tame the wild beasts of code to ensure every click, scroll, and hover feels like a dream. My daily routine involves slaying bugs, optimizing performance, and applying good practices and development standards like a chef perfecting a gourmet recipe. When I'm not busy coding, you can find me exploring the latest web design trends or trying to explain to my non-techie friends why my job is basically wizardry.
             </strong>
         </p>
     </div>
